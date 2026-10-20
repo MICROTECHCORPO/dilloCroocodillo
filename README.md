@@ -1,11 +1,38 @@
+# 🐊 Dillo – Dom Marki & Ekosystem Projektowy
+
 <img width="1254" height="1254" alt="file_00000000bdf481f49a36f89fc1d1b974" src="https://github.com/user-attachments/assets/84c8aed4-66be-4d23-8658-4d15b583ac8e" />
+
+Witaj w oficjalnym repozytorium **Dillo** – miejscu, gdzie urban streetwear, art toys, unikalne rzemiosło oraz nowoczesne technologie łącza się w jeden spójny ekosystem.
+
+___
 <img width="1024" height="1024" alt="Gemini_Generated_Image" src="https://github.com/user-attachments/assets/f4b212be-827e-476a-9d34-efa24cf20a4a" />
+To nie jest zwykły projekt odzieżowy ani masowa produkcja. Dillo to koncept budowany przez pasjonatów, rzemieślników i devów, dla których kluczowa jest jakość, detal i charakter.
+
+---
 <img width="1024" height="1024" alt="Gemini_Generated_Image (2)" src="https://github.com/user-attachments/assets/c418b0ef-1b53-4514-8f9d-febd85770c21" />
+
 <img width="512" height="512" alt="1791664747640" src="https://github.com/user-attachments/assets/8a892377-8f1f-4bf9-a39b-aae4e930fef1" />
+## 🚀 Czym jest Dillo?
+
+Dillo to marka nowej generacji, rozwijana w ramach Holdingu MICROTECHCORPO. Łączymy świat fizycznych produktów kolekcjonerskich z cyfrowym wsparciem technologicznym i automatyzacją.
+
 <img width="512" height="512" alt="1791669050920" src="https://github.com/user-attachments/assets/9bac9c84-6ec3-4459-8431-7a44400436d9" />
+### 🧩 Filary Projektu:
+* 👕 **Streetwear & Premium Apparel:** Limitowane dropy odzieżowe o customowych krojach, dopracowanych haftach i najwyższej jakości materiałach.
+
 <img width="512" height="512" alt="1791669062082" src="https://github.com/user-attachments/assets/a6285405-9223-499f-abf5-e6bb6f6da0a7" />
+
+
+* 🧸 **Art Toys & Maskotki Kolekcjonerskie:** Unikalne, miękkie figurki i formy przestrzenne tworzone we współpracy z kameralnymi pracowniami i krawcami.
+
 <img width="512" height="512" alt="1791669079038" src="https://github.com/user-attachments/assets/1e08dd0a-9c13-4891-ad1f-ff176675c989" />
 <img width="512" height="512" alt="1791705476074" src="https://github.com/user-attachments/assets/04b6d4d5-65ea-4712-bf1a-d3d2fd750e76" />
+
+
+* ⚙️ **Rzemiosło & CNC:** Elementy wykończeniowe, detale i dedykowane akcesoria powstające przy użyciu frezarek CNC, druku 3D oraz nowoczesnych form odlewniczych.
+* 💻 **Digital & E-Commerce Ecosystem:** Dedykowane boty sprzedażowe (np. Telegram Bot), interaktywna platforma webowa oraz integracje Web3/Tokenomiki.
+
+---
 <img width="512" height="512" alt="1791705509323" src="https://github.com/user-attachments/assets/a7e0fa10-1972-4fd6-9a7e-0da591515add" />
 <img width="512" height="457" alt="1791705529658" src="https://github.com/user-attachments/assets/3709963f-007c-45ea-af70-38d637c872a1" />
 <img width="512" height="279" alt="1791705564866" src="https://github.com/user-attachments/assets/4a393915-6586-4639-b7f0-084584ce1f94" />
